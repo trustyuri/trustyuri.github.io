@@ -6,8 +6,7 @@ layout: main
 Here you find general information and documents about the trusty URI approach.
 
 
-Important Links and Documents
------------------------------
+### Important Links and Documents
 
 The [trusty URI specification](https://github.com/trustyuri/trustyuri-spec)
 formally defines the structure and meaning of trusty URIs.
@@ -17,17 +16,15 @@ Code and documentation for trusty URIs is hosted on
 
 The following article introduces the trusty URI approach:
 
-> Tobias Kuhn and Michel Dumontier. Trusty URIs: Verifiable, Immutable, and
-> Permanent Digital Artifacts for Linked Data. In _Proceedings of the 11th
+> Tobias Kuhn and Michel Dumontier. [Trusty URIs: Verifiable, Immutable, and
+> Permanent Digital Artifacts for Linked Data](http://arxiv.org/abs/1401.5775). In _Proceedings of the 11th
 > Extended Semantic Web Conference (ESWC)_. Springer, 2014.
-> http://arxiv.org/abs/1401.5775
 
 Check out the [wiki](https://github.com/trustyuri/trustyuri/wiki) for posting
 your wish-list features, giving feedback, brainstorming, etc.
 
 
-Example
--------
+### Example
 
 Generally, trusty URIs are URIs that contain a certain kind of hash value that
 can be used to verify the respective resource. This is an example of a
@@ -43,12 +40,11 @@ point.) The remaining 43 characters are the actual hash value. This hash can
 be used to check the content of the resource this URI represents.
 
 
-Implementations
----------------
+### Implementations
 
 There are currently three (partial) implementations:
 
-- trustyuri-java: https://github.com/trustyuri/trustyuri-java
-- trustyuri-perl: https://github.com/trustyuri/trustyuri-perl
-- trustyuri-python: https://github.com/trustyuri/trustyuri-python
+- [trustyuri-java](https://github.com/trustyuri/trustyuri-java)
+- [trustyuri-perl](https://github.com/trustyuri/trustyuri-perl)
+- [trustyuri-python](https://github.com/trustyuri/trustyuri-python)
 

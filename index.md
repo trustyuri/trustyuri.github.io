@@ -16,9 +16,12 @@ Code and documentation for trusty URIs is hosted on
 
 The following article introduces the trusty URI approach:
 
-> Tobias Kuhn and Michel Dumontier. [Trusty URIs: Verifiable, Immutable, and
-> Permanent Digital Artifacts for Linked Data](http://arxiv.org/abs/1401.5775). In _Proceedings of the 11th
-> Extended Semantic Web Conference (ESWC)_. Springer, 2014.
+- Tobias Kuhn and Michel Dumontier. [Trusty URIs: Verifiable, Immutable, and
+  Permanent Digital Artifacts for Linked Data](http://arxiv.org/abs/1401.5775). In _Proceedings of the 11th
+  Extended Semantic Web Conference (ESWC)_. Springer, 2014.
+
+The [slides for the talk at ESWC 2014](http://www.slideshare.net/TobiasKuhn/trustyuris)
+are also available.
 
 Check out the [wiki](https://github.com/trustyuri/trustyuri/wiki) for posting
 your wish-list features, giving feedback, brainstorming, etc.

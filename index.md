@@ -14,8 +14,11 @@ formally defines the structure and meaning of trusty URIs.
 Code and documentation for trusty URIs is hosted on
 [GitHub](https://github.com/trustyuri).
 
-The following article introduces the trusty URI approach:
+The following articles introduce the trusty URI approach:
 
+- Tobias Kuhn and Michel Dumontier. [Making Digital Artifacts on the Web
+  Verifiable and Reliable](http://arxiv.org/pdf/1507.01697). _IEEE Transactions
+  on Knowledge and Data Engineering_, 27(9), 2015.
 - Tobias Kuhn and Michel Dumontier. [Trusty URIs: Verifiable, Immutable, and
   Permanent Digital Artifacts for Linked Data](http://arxiv.org/abs/1401.5775). In _Proceedings of the 11th
   Extended Semantic Web Conference (ESWC)_. Springer, 2014.
